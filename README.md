@@ -1,6 +1,3 @@
-## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dryzxz25/Bot-clone)
-
 ## Image
 <p align="center">
 <img src="https://telegra.ph/file/91e1c3af213527b277eb8.jpg" alt="X-NONE BOT" width="128" height="128"/>
