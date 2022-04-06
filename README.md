@@ -1,5 +1,5 @@
 ## Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dryzxz25/Bot-clone/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dryzxz25/Bot-clone)
 
 ## Image
 <p align="center">
